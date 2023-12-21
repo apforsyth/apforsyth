@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on stories you'd like to tell !
 - 💬 Ask me about how to give engaging presentations
 - 📫 How to reach me: andrewforsyth@ssw.com.au
-- ⚡ Fun fact: Wingsuiter, vertical formation skydiver, scuba diver, shark lover, Burmese cat lover, wing-foiler, sup-foiler, 
+- ⚡ Fun fact: Burmese cat lover, wing-foiler, sup-foiler, wingsuiter, vertical formation skydiver, scuba diver & shark lover, video producer
 -->[![Andrew's github stats](https://github-readme-stats.vercel.app/api?username={{USERNAME}}&theme=dark)](https://github.com/{{USERNAME}}/github-readme-stats)
