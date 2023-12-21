@@ -1,6 +1,5 @@
 ### G'day! 👋
 
-<!--
 **apforsyth/apforsyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about how to give engaging presentations
 - 📫 How to reach me: andrewforsyth@ssw.com.au
 - ⚡ Fun fact: Burmese cat lover, wing-foiler, sup-foiler, wingsuiter, vertical formation skydiver, scuba diver & shark lover, video producer
--->[![Andrew's github stats](https://github-readme-stats.vercel.app/api?username={{USERNAME}}&theme=dark)](https://github.com/{{USERNAME}}/github-readme-stats)
+[![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=apforsyth&theme=dark)](https://github.com/apforsyth/github-readme-stats)
